@@ -3,7 +3,7 @@ kotlin-compiler for Debian
 
 This package, at the time of the first packaging, does not (not even close)
 conform to the Debian policy, since it is simply a repackaging of the
-binaries that the upstream deelopers provide.
+binaries that the upstream developers provide.
 
 As time goes on, I intend to be replacing the parts in question with
 (unpatched) libraries and programs that are already in the Debian repository
@@ -16,4 +16,4 @@ package managers like SDKMAN or to avoid losing control of programs
 installed manually on the system, especially when it comes time to upgrade
 said programs.
 
- -- Rogério Brito <rbrito@ime.usp.br>, Wed, 21 Jun 2017 19:00:13 -0300
+ -- Rogério Brito <rbrito@ime.usp.br>, Wed, 21 Jun 2017 20:46:32 -0300
