@@ -1,5 +1,8 @@
-kotlin-compiler (1.1.2.5-1) unstable; urgency=medium
+kotlin-compiler (1.1.2.5-1~1.gbp2e409b) unstable; urgency=medium
+
+  ** SNAPSHOT build @2e409b81f50d4208bca739dd9a8a2083467dee2a **
 
   * Initial release (Closes: #nnnn)
+  * debian/install: First (incorrect) version of the install file.
 
- -- Rogério Brito <rbrito@ime.usp.br>  Wed, 21 Jun 2017 18:44:06 -0300
+ -- Rogério Brito <rbrito@ime.usp.br>  Wed, 21 Jun 2017 20:13:47 -0300
