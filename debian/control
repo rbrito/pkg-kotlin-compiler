@@ -1,0 +1,20 @@
+Source: kotlin-compiler
+Section: devel
+Priority: optional
+Maintainer: Rogério Brito <rbrito@ime.usp.br>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+Homepage: https://kotlinlang.org/
+Vcs-Git: https://github.com/rbrito/pkg-kotlin-compiler
+Vcs-Browser: https://github.com/rbrito/pkg-kotlin-compiler
+
+Package: kotlin-compiler
+Architecture: all
+Depends: ${misc:Depends}
+Description: compiler for the Kotlin language
+ Kotlin is a statically typed programming language for modern multiplatform
+ applications.
+ .
+ This particular implementation generates programs that are meant to be run
+ on the Java Virtual Machine (JVM) and it is "100% interoperable with Java
+ and Android".

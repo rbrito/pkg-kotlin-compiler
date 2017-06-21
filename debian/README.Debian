@@ -1,0 +1,10 @@
+kotlin-compiler for Debian
+-------------------------
+
+The version number of the package has been changed, since Debian version
+numbers can't contain a hyphen, but upstream uses them.
+
+The hypen has been changed to a dot. As a result, the first packaged release
+had a version of 1.1.2-5, which was rewritten as 1.1.2.5.
+
+ -- Rogério Brito <rbrito@ime.usp.br>, Wed, 21 Jun 2017 18:50:03 -0300
