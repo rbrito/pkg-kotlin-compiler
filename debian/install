@@ -1,2 +1,2 @@
 bin usr
-lib/*.jar usr/share/java
+lib usr
