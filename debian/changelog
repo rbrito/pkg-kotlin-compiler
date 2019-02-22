@@ -1,3 +1,11 @@
+kotlin-compiler (1.3.21-1~1.gbpe71d76) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @e71d76839a7284a46f94f6815eaf7d4f61b14472 **
+
+  * New upstream version 1.3.21
+
+ -- Rogério Brito <rbrito@ime.usp.br>  Fri, 22 Feb 2019 05:18:32 -0300
+
 kotlin-compiler (1.1.2.5-1~2.gbp9ec036) UNRELEASED; urgency=medium
 
   ** SNAPSHOT build @9ec036bed59b21cdc8a72e13307572e9160cb2dd **
